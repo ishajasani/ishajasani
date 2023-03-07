@@ -3,10 +3,10 @@ My name is Isha Jasani
 =================================================================================================================================== 
 WEB3 Developer , Flutter Developer 
 ----------------------------------  
-An undergrad student sailing my through the ocean of tech waves  * 
-🌍  I'm based in Vadodara , Gujarat , India *
-✉️  You can contact me at [ishajasani2203@gmail.com](mailto:ishajasani2203@gmail.com) * 
-🧠  I'm learning Flutter and Blockchain
+An undergrad student sailing my through the ocean of tech waves 
+* 🌍  I'm based in Vadodara , Gujarat , India 
+* ✉️  You can contact me at [ishajasani2203@gmail.com](mailto:ishajasani2203@gmail.com)
+* 🧠  I'm learning Flutter and Blockchain
 
 <a href="https://www.github.com/ishajasani" target="_blank" rel="noreferrer"><img src="https://img.shields.io/github/followers/ishajasani?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
 ### Skills  
