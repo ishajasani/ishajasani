@@ -23,7 +23,3 @@ An undergrad student sailing my through the ocean of tech waves
 <a href="http://www.github.com/ishajasani"><img src="https://github-readme-activity-graph.cyclic.app/graph?username=ishajasani&bg_color=ffffff&color=84cc16&line=22c55e&point=84cc16&area_color=ffffff&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
 <a href="https://github.com/ishajasani" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ishajasani&langs_count=10&title_color=10b981&text_color=84cc16&icon_color=22c55e&bg_color=ffffff&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
 
-<b>Top Repositories</b>
-
-<div width="100%" align="center"><a href="https://github.com/ishajasani/Virtual Vault" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=ishajasani&repo=Virtual Vault&title_color=10b981&text_color=84cc16&icon_color=22c55e&bg_color=ffffff&hide_border=true&locale=en" /></a><a href="https://github.com/ishajasani/Techie-Twins" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=ishajasani&repo=Techie-Twins&title_color=10b981&text_color=84cc16&icon_color=22c55e&bg_color=ffffff&hide_border=true&locale=en" /></a></div><br /><br /><br /><br /><br /><br /><br />
-
