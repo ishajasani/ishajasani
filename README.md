@@ -18,10 +18,10 @@ An undergrad student sailing my through the ocean of tech waves
  
 ### Badges
 
-<a href="http://www.github.com/ishajasani"><img src="https://github-readme-stats.vercel.app/api?username=ishajasani&show_icons=true&hide=&count_private=true&title_color=10b981&text_color=84cc16&icon_color=22c55e&bg_color=000000&hide_border=true&show_icons=true" alt="ishajasani's GitHub stats" /></a>
-<a href="http://www.github.com/ishajasani"><img src="https://github-readme-streak-stats.herokuapp.com/?user=ishajasani&stroke=84cc16&background=000000&ring=10b981&fire=10b981&currStreakNum=84cc16&currStreakLabel=10b981&sideNums=84cc16&sideLabels=84cc16&dates=84cc16&hide_border=true" /></a>
-<a href="http://www.github.com/ishajasani"><img src="https://github-readme-activity-graph.cyclic.app/graph?username=ishajasani&bg_color=000000&color=84cc16&line=22c55e&point=84cc16&area_color=000000&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
-<a href="https://github.com/ishajasani" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ishajasani&langs_count=10&title_color=10b981&text_color=84cc16&icon_color=22c55e&bg_color=000000&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+<a href="http://www.github.com/ishajasani"><img src="https://github-readme-stats.vercel.app/api?username=ishajasani&show_icons=true&hide=&count_private=true&title_color=10b981&text_color=84cc16&icon_color=22c55e&bg_color=365314&hide_border=true&show_icons=true" alt="ishajasani's GitHub stats" /></a>
+<a href="http://www.github.com/ishajasani"><img src="https://github-readme-streak-stats.herokuapp.com/?user=ishajasani&stroke=84cc16&background=365314&ring=10b981&fire=10b981&currStreakNum=84cc16&currStreakLabel=10b981&sideNums=84cc16&sideLabels=84cc16&dates=84cc16&hide_border=true" /></a>
+<a href="http://www.github.com/ishajasani"><img src="https://github-readme-activity-graph.cyclic.app/graph?username=ishajasani&bg_color=365314&color=84cc16&line=22c55e&point=84cc16&area_color=365314&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
+<a href="https://github.com/ishajasani" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ishajasani&langs_count=10&title_color=10b981&text_color=84cc16&icon_color=22c55e&bg_color=365314&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
 
 <b>Top Repositories</b>
 
