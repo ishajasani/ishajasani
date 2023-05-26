@@ -8,6 +8,6 @@ An undergrad student sailing through the ocean of tech waves
 * ✉️  You can contact me at [ishajasani2203@gmail.com](mailto:ishajasani2203@gmail.com)
 * 🧠  I'm learning Flutter and Blockchain
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=DenverCoder1)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ishajasani)](https://git.io/streak-stats)
 
 
