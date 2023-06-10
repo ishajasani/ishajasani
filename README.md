@@ -12,7 +12,8 @@ An undergrad student sailing through the ocean of tech waves
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="vscode" width="45" height="45"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" alt="bash" width="45" height="45"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" alt="php" width="45" height="45"/>
-</p
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="react" width="45" height="45"/>
+</p>
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ishajasani&show_icons=true&theme=transparent)](https://github.com/ishajasani/github-readme-stats)
 
