@@ -10,6 +10,6 @@ An undergrad student sailing through the ocean of tech waves
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ishajasani&show_icons=true&theme=transparent)](https://github.com/ishajasani/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ishajasani&layout=donut)](https://github.com/ishajasani/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ishajasani&layout=donut&theme=transparent)](https://github.com/ishajasani/github-readme-stats)
 
 
