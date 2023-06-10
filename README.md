@@ -8,5 +8,7 @@ An undergrad student sailing through the ocean of tech waves
 * ✉️  You can contact me at [ishajasani2203@gmail.com](mailto:ishajasani2203@gmail.com)
 * 🧠  I'm learning Flutter and Blockchain
 
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ishajasani)](https://github.com/ishajasani/github-readme-stats)
+
 
 
