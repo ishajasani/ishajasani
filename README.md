@@ -37,6 +37,6 @@ An undergrad student sailing through the ocean of tech waves
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ishajasani&layout=donut&theme=transparent)](https://github.com/ishajasani/github-readme-stats)
 
-![Snake animation](https://github.com/ishajasani/ishajasani/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/ishajasani/blob/output/github-contribution-grid-snake.svg)
 
 
