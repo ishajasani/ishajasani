@@ -33,8 +33,10 @@ An undergrad student sailing through the ocean of tech waves
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" alt="php" width="45" height="45"/>        
 </p>
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ishajasani&show_icons=true&theme=transparent)](https://github.com/ishajasani/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ishajasani&layout=donut&theme=transparent)](https://github.com/ishajasani/github-readme-stats)
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ishajasani&show_icons=true&theme=transparent)](https://github.com/ishajasani/github-readme-stats)
+
 [![GitHub Streak](https://streak-stats.demolab.com/?user=ishajasani&theme=dark)](https://git.io/streak-stats)
 
 
