@@ -37,7 +37,7 @@ An undergrad student sailing through the ocean of tech waves
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ishajasani&show_icons=true&theme=transparent)](https://github.com/ishajasani/github-readme-stats)
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=ishajasani&theme=dark)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=ishajasani&theme=transparent)](https://git.io/streak-stats)
 
 
 
