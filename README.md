@@ -35,4 +35,4 @@ An undergrad student sailing through the ocean of tech waves
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ishajasani&layout=donut&theme=transparent&background=80%2CFFFFFF%2CE5E5E5)](https://github.com/ishajasani/github-readme-stats)
 
-
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=ishajasani&theme=transparent)](https://git.io/streak-stats)
